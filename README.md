@@ -1,18 +1,10 @@
-# OnlineStore
 
-This is a online store app implemented using Angular 4.
-
-## Demo
-
-<a target="_blank" href="https://ddvkid.github.io/online-store"><img src="./screenshot.png" width="600" alt="Sky Blue"/></a>
-
-<a target="_blank" href="https://ddvkid.github.io/online-store">Live Demo</a>
 
 ## How to start
 
 You will need to clone the source code of online-store GitHub repository.
 
-`git clone https://github.com/ddvkid/online-store.git`
+`git clone https://github.com/paramsohi/simple_angular_ecommerce`
 
 After the repository is cloned, go inside of the repository directory and install dependencies:
 
